@@ -7,4 +7,4 @@ The training data set was taken from [kaggle](https://www.kaggle.com/grassknoted
 
 ## Demo
 
-![Demo](https://github.com/utkarshchawla/ASL-alphabet/blob/master/resources/A-E.gif?raw=true)
+<img src="https://github.com/utkarshchawla/ASL-alphabet/blob/master/resources/A-E.gif?raw=true" width="285" height="320"> <img src="https://github.com/utkarshchawla/ASL-alphabet/blob/master/resources/F-J.gif?raw=true" width="285" height="320"> <img src="https://github.com/utkarshchawla/ASL-alphabet/blob/master/resources/K-O.gif?raw=true" width="285" height="320"> <img src="https://github.com/utkarshchawla/ASL-alphabet/blob/master/resources/P-T.gif?raw=true" width="285" height="320"> <img src="https://github.com/utkarshchawla/ASL-alphabet/blob/master/resources/U-Z.gif?raw=true" width="285" height="320">
